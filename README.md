@@ -34,12 +34,3 @@ This project is created as a personal learning project and is not officially end
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, feel free to submit a pull request or open an issue on GitHub.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-Replace `[LICENSE](LICENSE)` with the path to your license file, and make sure to add your repository's URL and other relevant information.
-
-The above README provides an overview of the project, installation and usage instructions, tips, credits, and information about contributing and licensing. It gives potential users an idea of what the project does and how they can use it while also acknowledging the data source and giving proper credits. Feel free to customize the README further based on your project's specific details and features.
